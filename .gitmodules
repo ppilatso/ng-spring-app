@@ -1,0 +1,3 @@
+[submodule "ng-spring-app"]
+	path = ng-spring-app
+	url = https://github.com/ppilatso/ng-spring-app
