@@ -3,10 +3,12 @@ package com.userman.usermanager.services;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.userman.usermanager.entities.User;
 import com.userman.usermanager.repositories.UserRepository;
 
+@Service
 public class UserService {
 
   @Autowired
